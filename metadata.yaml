@@ -1,0 +1,27 @@
+_repo: The-Adventures-of-Piang-the-Moro-Jungle-BoyA-Book-for-Young-and-Old_22407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuart, Florence Partello
+    gutenberg_agent_id: '25317'
+    url: http://www.gutenberg.org/2009/agents/25317
+description: ''
+gutenberg_issued: '2007-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22407'
+  lccn: '17025285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Adventures of Piang the Moro Jungle Boy
+
+  A Book for Young and Old'
+url: http://www.gutenberg.org/ebooks/22407
